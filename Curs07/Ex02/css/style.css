@@ -44,5 +44,13 @@ a[href*="http"] {
 
 a[href$=".com/"] {
   color:black;
+  color: green;
+}
+
+i {
+  color: red;
+}
+
+.line {
   text-decoration: underline;
 }
