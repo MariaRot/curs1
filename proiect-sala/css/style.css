@@ -399,6 +399,16 @@ body {
   color: #707070;
 }
 
+.logo{
+  text-align: center;
+}
+
+.nav-main{
+  display:flex;
+  justify-content: center;
+}
+
+
 .nav-main li {
   display: inline-block;
   margin: 0 5px;
@@ -416,4 +426,20 @@ body {
   color: #fff;
 }
 
+.nav-secondary{
+  display:flex;
+  justify-content: center;
+}
+
+.nav-secondary li{
+  display:inline-block;
+  margin: 0 5px;
+}
+.nav-secondary a{
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.nav-secondary a:hover{
+  color:#FF6B6B;
+}
 
