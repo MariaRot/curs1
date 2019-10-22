@@ -1,6 +1,15 @@
 /* add code here */
+#header h1 {
+  color: green;
+  text-decoration: underline;
+  padding: 5px;;
+}
 
-
+p.para {
+  font-size: 25px;
+  font-style: italic;
+  color: purple;
+}
 
 /* add code here */
 
